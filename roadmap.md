@@ -1,7 +1,7 @@
 <style>
     .card{
         border-radius: 0.5rem;
-        background: #111;
+        background: #151515;
         white-space: pre-word;
         padding: 1rem;
         margin-bottom: 1rem;
