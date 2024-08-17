@@ -63,12 +63,28 @@
        <hr/>
         Retroactive
         <br>
-        * ? user athentication
-        * ? authorized views and actions
-        * ? course model structure
-        * ? course/modules/sections/activities
-        * ? backend data architecture
-        * ? frontend approach
-        * ? infrastructure  
+        <ul>
+            <li>
+                ? user athentication
+            </li>
+            <li>
+                ? authorized views and actions
+            </li>
+            <li>
+                ? course model structure
+            </li>
+            <li>
+                ? course/modules/sections/activities
+            </li>
+            <li>
+                ? backend data architecture
+            </li>
+            <li>
+                ? frontend approach
+            </li>
+            <li>
+                ? infrastructure
+            </li>
+        </ul>
     </div>
 </div>
