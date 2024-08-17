@@ -50,3 +50,28 @@
        Retroactive
     </div>
 </div>
+
+
+<div class='card'>
+    <div>
+        <b>Learning Management Service</b>
+        <hr/>
+    </div>
+    <div>
+        Basic feature-set proof of concept of a service which users use to administering courseware modules and users to consume modules.
+    </div>
+    <br/>
+    <div>
+       <b>Timeframe</b>
+       <hr/>
+        Retroactive
+        <br>
+        - ? user athentication
+        - ? authorized views and actions
+        - ? course model structure
+        - ? course/modules/sections/activities
+        - ? backend data architecture
+        - ? frontend approach
+        - ? infrastructure  
+    </div>
+</div>
