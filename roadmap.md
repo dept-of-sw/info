@@ -33,7 +33,6 @@
     Retroactive | [month/year] start | After other specific goal
     </div>
 </div>
-
 <div class='card'>
     <div>
         <b>USWDS component additions</b>
@@ -50,8 +49,6 @@
        Retroactive
     </div>
 </div>
-
-
 <div class='card'>
     <div>
         <b>Learning Management Service</b>
@@ -66,12 +63,12 @@
        <hr/>
         Retroactive
         <br>
-        - ? user athentication
-        - ? authorized views and actions
-        - ? course model structure
-        - ? course/modules/sections/activities
-        - ? backend data architecture
-        - ? frontend approach
-        - ? infrastructure  
+        * ? user athentication
+        * ? authorized views and actions
+        * ? course model structure
+        * ? course/modules/sections/activities
+        * ? backend data architecture
+        * ? frontend approach
+        * ? infrastructure  
     </div>
 </div>
