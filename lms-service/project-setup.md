@@ -65,7 +65,7 @@ https://github.com/coreybutler/nvm-windows/releases/download/1.1.12/nvm-setup.ex
 > npm run dev
 > # npm run dev will show us the default vite-react page. Use ctrl-c to stop it now that we know our project can launch. 
 > # add sass to the project
-> # create the dotnet project to the project directory
+> # create the dotnet project in the project directory
 > # configure the connection details to the database and redis
 ```
 ### tip
